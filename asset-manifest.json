@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/testRepo/static/css/main.fbd9226a.chunk.css",
+    "main.css": "/testRepo/static/css/main.8dd5370e.chunk.css",
     "main.js": "/testRepo/static/js/main.86c7c29d.chunk.js",
     "main.js.map": "/testRepo/static/js/main.86c7c29d.chunk.js.map",
     "runtime-main.js": "/testRepo/static/js/runtime-main.d7156231.js",
@@ -8,15 +8,15 @@
     "static/js/2.7620628f.chunk.js": "/testRepo/static/js/2.7620628f.chunk.js",
     "static/js/2.7620628f.chunk.js.map": "/testRepo/static/js/2.7620628f.chunk.js.map",
     "index.html": "/testRepo/index.html",
-    "precache-manifest.859a947597a6444fdaadd3801f207314.js": "/testRepo/precache-manifest.859a947597a6444fdaadd3801f207314.js",
+    "precache-manifest.e06a0bf5602162967a2985270bb59128.js": "/testRepo/precache-manifest.e06a0bf5602162967a2985270bb59128.js",
     "service-worker.js": "/testRepo/service-worker.js",
-    "static/css/main.fbd9226a.chunk.css.map": "/testRepo/static/css/main.fbd9226a.chunk.css.map",
+    "static/css/main.8dd5370e.chunk.css.map": "/testRepo/static/css/main.8dd5370e.chunk.css.map",
     "static/js/2.7620628f.chunk.js.LICENSE.txt": "/testRepo/static/js/2.7620628f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d7156231.js",
     "static/js/2.7620628f.chunk.js",
-    "static/css/main.fbd9226a.chunk.css",
+    "static/css/main.8dd5370e.chunk.css",
     "static/js/main.86c7c29d.chunk.js"
   ]
 }
