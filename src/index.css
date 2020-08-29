@@ -62,6 +62,8 @@
 }
 
 .controlButton {
+  box-sizing: border-box;
+  height: 50px;
   background-color: #38e1ff;
   border: 0;
   padding: 17px;
@@ -82,9 +84,11 @@
 }
 
 .formContainer {
+  box-sizing: border-box;
+  height: 50px;
   background-color: #b938ff;
   float: left;
-  padding: 12px;
+  padding: 10px;
   margin: 1px;
 }
 
