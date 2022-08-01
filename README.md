@@ -1,3 +1,3 @@
 # ReactECA
 
-The project is live at https://imanariroll.github.io/ReactECA/
+The project is live at https://brandon-spicer.github.io/ReactECA/
