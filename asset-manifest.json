@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ReactECA/static/css/main.8dd5370e.chunk.css",
-    "main.js": "/ReactECA/static/js/main.86c7c29d.chunk.js",
-    "main.js.map": "/ReactECA/static/js/main.86c7c29d.chunk.js.map",
+    "main.css": "/ReactECA/static/css/main.9b9bd930.chunk.css",
+    "main.js": "/ReactECA/static/js/main.9d7a14d4.chunk.js",
+    "main.js.map": "/ReactECA/static/js/main.9d7a14d4.chunk.js.map",
     "runtime-main.js": "/ReactECA/static/js/runtime-main.08943834.js",
     "runtime-main.js.map": "/ReactECA/static/js/runtime-main.08943834.js.map",
     "static/js/2.7620628f.chunk.js": "/ReactECA/static/js/2.7620628f.chunk.js",
     "static/js/2.7620628f.chunk.js.map": "/ReactECA/static/js/2.7620628f.chunk.js.map",
     "index.html": "/ReactECA/index.html",
-    "precache-manifest.2391eae724d464c54350d8fda328d2f0.js": "/ReactECA/precache-manifest.2391eae724d464c54350d8fda328d2f0.js",
+    "precache-manifest.371a5d0fe442398c6f246923c36d3d9c.js": "/ReactECA/precache-manifest.371a5d0fe442398c6f246923c36d3d9c.js",
     "service-worker.js": "/ReactECA/service-worker.js",
-    "static/css/main.8dd5370e.chunk.css.map": "/ReactECA/static/css/main.8dd5370e.chunk.css.map",
+    "static/css/main.9b9bd930.chunk.css.map": "/ReactECA/static/css/main.9b9bd930.chunk.css.map",
     "static/js/2.7620628f.chunk.js.LICENSE.txt": "/ReactECA/static/js/2.7620628f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.08943834.js",
     "static/js/2.7620628f.chunk.js",
-    "static/css/main.8dd5370e.chunk.css",
-    "static/js/main.86c7c29d.chunk.js"
+    "static/css/main.9b9bd930.chunk.css",
+    "static/js/main.9d7a14d4.chunk.js"
   ]
 }
